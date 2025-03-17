@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CherryMoon-Hub
 - 👀 I’m interested in C#, C++
 - 🌱 I’m currently learning C++ and C#
-- 📫 How to reach me : cherry._moon_ on discord
+- 📫 How to reach me : cherry._ moon _ on discord
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like cats.
 
